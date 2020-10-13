@@ -3,13 +3,14 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [License](#license)
+* [Business Requirements](#business-requirements)
+* [Data Preparation](#data-preparation)
 * [Contact](#contact)
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-It is all about Data Analysis of AirBnb Boston. The dataset is available on Kaggle website (https://www.kaggle.com/airbnb/boston). The dataset contain huge amount of data with 95 features and more than 3000 columns for Analysis and visualization of AirBnb Boston Trends.
+It is all about Data Analysis of AirBnb Boston. The dataset is available on Kaggle website (https://www.kaggle.com/airbnb/boston). The dataset contain huge amount of data with 95 features and 3585 columns for Analysis and visualization of AirBnb Boston Trends.
 
 ### Built With
 This project is built with Jupyter Notebook using Pandas, Numpy, Matplotlib, Seaborn.
@@ -22,12 +23,8 @@ The Analysis of the dataset is fulfilling following requirements:
 4. In which Property type People stay Maximum and Minimum?
 5. Which types of Property requires Minimum and Maximum Securtiy Deposit fee?
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
+## Data Preparation
+The dataset was messy and most of the datatypes are incorrect as well as some of the data are missing so thorough data wrangling process is used to clean the data as much as possible to make the data consistent and suitable for analysis and fulfilling the above mentioned business requirements.
 
 <!-- CONTACT -->
 ## Contact
