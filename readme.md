@@ -30,5 +30,7 @@ The dataset was messy and most of the datatypes are incorrect as well as some of
 ## Contact
 
 Waqar Ahmed - waqar.nu@gmail.com
+
 Blog Link: [https://waqar-ahmed91.github.io/](https://waqar-ahmed91.github.io/)
+
 Project Link: [https://github.com/waqar-ahmed91/AirBnb-Boston-Data-Analysis](https://github.com/waqar-ahmed91/AirBnb-Boston-Data-Analysis)
