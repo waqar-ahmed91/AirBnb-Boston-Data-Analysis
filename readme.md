@@ -11,18 +11,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 It is all about Data Analysis of AirBnb Boston. The dataset is available on Kaggle website (https://www.kaggle.com/airbnb/boston). The dataset contain huge amount of data with 95 features and 3585 columns for Analysis and visualization of AirBnb Boston Trends.
-
+<!-- Built With -->
 ### Built With
 This project is built with Jupyter Notebook using Pandas, Numpy, Matplotlib, Seaborn.
-
+<!-- Business Requirements -->
 ## Business Requirements
 The Analysis of the dataset is fulfilling following requirements:
 1. What type of Cancellation Policy Host Prefer in terms of AirBnb Booking?
-2. Which areas are most and least Expenisve in Boston?
+2. Which areas are most and least Expensive in Boston?
 3. What are the prices of Room types and Property types in Boston?
 4. In which Property type People stay Maximum and Minimum?
-5. Which types of Property requires Minimum and Maximum Securtiy Deposit fee?
-
+5. Which types of Property requires Minimum and Maximum Security Deposit fee?
+<!-- Data Preparation -->
 ## Data Preparation
 The dataset was messy and most of the datatypes are incorrect as well as some of the data are missing so thorough data wrangling process is used to clean the data as much as possible to make the data consistent and suitable for analysis and fulfilling the above mentioned business requirements.
 
@@ -30,5 +30,5 @@ The dataset was messy and most of the datatypes are incorrect as well as some of
 ## Contact
 
 Waqar Ahmed - waqar.nu@gmail.com
-
+Blog Link: [https://waqar-ahmed91.github.io/](https://waqar-ahmed91.github.io/)
 Project Link: [https://github.com/waqar-ahmed91/AirBnb-Boston-Data-Analysis](https://github.com/waqar-ahmed91/AirBnb-Boston-Data-Analysis)
