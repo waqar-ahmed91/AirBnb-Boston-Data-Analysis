@@ -1,36 +1,83 @@
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
+# 🏙️ Airbnb Boston Data Analysis and Visualization Blog
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Business Requirements](#business-requirements)
-* [Data Preparation](#data-preparation)
-* [Contact](#contact)
+This project presents an in-depth **data analysis and visualization** of Airbnb listings in **Boston, Massachusetts**. The goal is to uncover patterns, trends, and insights from the Airbnb market to better understand factors affecting pricing, demand, and customer behavior.
 
+---
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-It is all about Data Analysis of AirBnb Boston. The dataset is available on Kaggle website (https://www.kaggle.com/airbnb/boston). The dataset contain huge amount of data with 95 features and 3585 columns for Analysis and visualization of AirBnb Boston Trends.
-<!-- Built With -->
-### Built With
-This project is built with Jupyter Notebook using Pandas, Numpy, Matplotlib, Seaborn.
-<!-- Business Requirements -->
-## Business Requirements
-The Analysis of the dataset is fulfilling following requirements:
-1. What type of Cancellation Policy Host Prefer in terms of AirBnb Booking?
-2. Which areas are most and least Expensive in Boston?
-3. What are the prices of Room types and Property types in Boston?
-4. In which Property type People stay Maximum and Minimum?
-5. Which types of Property requires Minimum and Maximum Security Deposit fee?
-<!-- Data Preparation -->
-## Data Preparation
-The dataset was messy and most of the datatypes are incorrect as well as some of the data are missing so thorough data wrangling process is used to clean the data as much as possible to make the data consistent and suitable for analysis and fulfilling the above mentioned business requirements.
+## 📌 About The Project
 
-<!-- CONTACT -->
-## Contact
+The dataset used in this project is sourced from Kaggle:  
+🔗 [Airbnb Boston Dataset on Kaggle](https://www.kaggle.com/airbnb/boston)
 
-Waqar Ahmed - waqar.nu@gmail.com
+It contains **3,585 records** and **95 features**, including listing details, pricing, host information, availability, location, and more.
 
-Blog Link: [https://waqar-ahmed91.github.io/](https://waqar-ahmed91.github.io/)
+---
 
-Project Link: [https://github.com/waqar-ahmed91/AirBnb-Boston-Data-Analysis](https://github.com/waqar-ahmed91/AirBnb-Boston-Data-Analysis)
+## 🧰 Built With
+
+This project is built in **Jupyter Notebook**, using the following Python libraries:
+
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+
+---
+
+## 💼 Business Requirements
+
+The analysis addresses several key questions relevant to hosts, property managers, and potential investors:
+
+1. **Cancellation Policy Trends**  
+   What type of cancellation policies do hosts prefer?
+
+2. **Neighborhood Pricing Trends**  
+   Which areas are the most and least expensive in Boston?
+
+3. **Room & Property Type Insights**  
+   What are the typical prices across room and property types?
+
+4. **Occupancy by Property Type**  
+   Which property types have the highest and lowest guest occupancy?
+
+5. **Security Deposit Analysis**  
+   Which property types require the minimum and maximum security deposits?
+
+---
+
+## 🧹 Data Preparation
+
+The original dataset required **thorough data wrangling**:
+
+- Incorrect data types were converted
+- Missing values were handled
+- Redundant and inconsistent entries were cleaned
+- Features were engineered to support the required analyses
+
+This preparation ensured that the data was consistent, clean, and suitable for drawing reliable insights.
+
+---
+
+## 🔗 Useful Links
+
+- 📘 **Blog:** [waqar-ahmed91.github.io](https://waqar-ahmed91.github.io/)
+- 💼 **GitHub Repository:** [Airbnb Boston Data Analysis](https://github.com/waqar-ahmed91/AirBnb-Boston-Data-Analysis)
+
+---
+
+## 👤 Contact
+
+**Waqar Ahmed**  
+📧 Email: waqar.nu@gmail.com
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. The dataset is publicly available and used for educational purposes only.
+
+---
+
+## 💡 Final Thoughts
+
+This project highlights the importance of **data cleaning**, **visual storytelling**, and **business-oriented EDA** in uncovering insights. Whether you're a host, investor, or data enthusiast, this analysis sheds light on how Airbnb listings in Boston behave under different economic and geographical conditions.
